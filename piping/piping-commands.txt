@@ -1,0 +1,5 @@
+#1 date | rev 
+
+#2 ls /usr/bin | less
+
+
